@@ -1,10 +1,12 @@
 #### BOM  Keyer project PI4DEC
 
-###### Bill of materials
+##### Bill of materials
 
-Part name and Value | Sch. Ref. | Quantity 
+*Part name and Value* | *Sch. Ref.* | *Quantity* 
 ------------------- | --------- | ------------------------- 
--                    |-           | - 
+                    |           |  
+
+
 PC Board            |           | 1 
                     |           | 
 Resistor 10 Ohm     | R34,      | 1 
