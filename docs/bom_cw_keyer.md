@@ -31,20 +31,31 @@ Rotary Encoder with switch and knob                    | SW1                   |
 Mini 6 DIN  Socket                                     | X1                    | 1 
                                                        |                       | 
 Single row Pin header male strip 40 pin, 2.54 mm       | several               | 1 
+                                                       |                       | 
 Double Row 2x40 pin 2,54 mm Female Header IC connector |                       | 1 
 Double Row 2x8 pin 2,54 mm Female Header IC connector  |                       | 2 
 Double Row 2x4 pin 2,54 mm Female Header IC connector  |                       | 1 
+                                                       |                       | 
 Jumper Pin 2                                           | several               | 6 
                                                        |                       | 
 Push button                                            | SW2…SW8               | 7 
-Loudspeaker 8 Ohm                                      | SP1                   | 1 
-Keypad 3x4 or 4x4                                      | U3                    | 1 
-Power entry                                            | J6                    | 1 
-Several Audio In- outputs, Paddle input, Keyer outputs | several               | 5 
-Led 5 mm                                               | LED1,LED2,LED3, LED4  | 4 
-Transistor 2N3904                                      | Q2,Q5,Q7              | 3 
+                                                       |                       | 
+Loudspeaker 8 Ohm                                      | SP1                   | 1
+                                                       |                       | 
+Keypad 3x4 or 4x4                                      | U3                    | 1
+                                                       |                       | 
+Power entry                                            | J6                    | 1
+                                                       |                       | 
+Several Audio In- outputs, Paddle input, Keyer outputs | several               | 5
+                                                       |                       | 
+Led 5 mm                                               | LED1,LED2,LED3, LED4  | 4
+                                                       |                       | 
+Transistor 2N3904                                      | Q2,Q5,Q7              | 3
+                                                       |                       | 
 Mosfet 2N7000                                          | Q1,Q3,Q4,Q6, Q8       | 5 
-Mega 2560 Pro Mini (Embed)                             | U2                    | 1 
+                                                       |                       | 
+Mega 2560 Pro Mini (Embed)                             | U2                    | 1
+                                                       |                       | 
 20x4 LCD Backlit Display                               | U1                    | 1 
 or                                                     |                       | 
 16x4 LCD Backlit Display                               | U1                    | 1 
