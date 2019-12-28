@@ -7,16 +7,14 @@
 
 
 [![](../images/pcb-thumbnail.jpeg)](images/pcb_layout.jpg) |  [![](../images/SchematicTN.jpg)](images/Schematic.pdf) | [![](../images/SchematicTN.jpg)](images/Schematic.pdf)
-------------------------------------------------------- | ---------------------------------------------------- | -------
-The K5BCQ PCB:                                       | Schematic: |
-**Part name and Value** | **Sch. Ref.** | **Quantity** 
-
-------------------- | --------- | ------------------------- 
-                    |           |  
+-------------- | ----------- | -------
+The K5BCQ PCB: |  Schematic: | ---  
+**Part name and Value** | **Sch. Ref.** | **Quantity**  
 
 
-PC Board            |           | 1 
-                    |           | 
+                    | -          |  
+PC Board            | -          | 1 
+                    | -          | 
 Resistor 10 Ohm     | R34,      | 1 
 Resistor 100 Ohm    | R14, R23, R36| 3 
 Resistor 220 Ohm    | R13, R15, R19, R20, R26 | 5 
