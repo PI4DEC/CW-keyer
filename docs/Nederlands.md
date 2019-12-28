@@ -4,7 +4,8 @@ Deze 'fork' van de K3NG Keyer is gemaakt door PI4DEC leden die dit project gemaa
 
 [Hardware documentatie staat op K5BCQ web pagina](https://www.qsl.net/k5bcq/Kits/Keyer.pdf)
 
-[De PCB kan besteld worden bij K5BCQ](https://www.qsl.net/k5bcq/Kits/Kits.html)
+[De PCB kan besteld worden bij K5BCQ](https://www.qsl.net/k5bcq/Kits/Kits.html) 
+###### *n.b. via PI4DEC of PA0GTB zijn nog enige printen beschikbaar*
 
 [![](../images/pcb-thumbnail.jpeg)](../images/pcb_layout.jpg) |  [![](../images/SchematicTN.jpg)](../images/Schematic.pdf)
 ------------------------------------------------------- | ----------------------------------------------------
@@ -12,7 +13,6 @@ De gebruikte PCB:                                       | Het schema:
 
 #### Documentatie:
 [Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](PA0GTB_documentatie.md)
-###### *n.b. via PI4DEC of PA0GTB zijn nog enige printen beschikbaar*
 
 [Onderdelenlijst](bom_cw_keyer.md)
 
