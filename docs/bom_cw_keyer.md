@@ -36,32 +36,32 @@ Double Row 2x40 pin 2,54 mm Female Header IC connector|             | 1       | 
 Double Row 2x8 pin 2,54 mm Female Header IC connector|              | 2       | Sockets for Arduino
 Double Row 2x4 pin 2,54 mm Female Header IC connector|              | 1       | Sockets for Arduino.  1 position to cut off
  | | |
-Jumper Pin 2                                | several               | 6       |
+Jumper Pin 2                                | several               | 6       | Mini Jumper 2.54mm Gold Plated Closed Cover
  | | |
-Push button                                 | SW2…SW8               | 7       |
+Push button                                 | SW2…SW8               | 7       | Tactile Push Button Switches 6x6x15mm or you can substitute panel mount Push Buttons
  | | |
-Loudspeaker 8 Ohm                           | SP1                   | 1       |
+Loudspeaker 8 Ohm                           | SP1                   | 1       | Small 8 Ohm
  | | |
-Keypad 3x4 or 4x4                           | U3                    | 1       | 
+Keypad 3x4 or 4x4                           | U3                    | 1       | Keypad membrane switch (optional)
  | | |
-Power entry                                 | J6                    | 1       | 
+Power entry                                 | J6                    | 1       | CUI PJ-002A with 2mm center pin
  | | |
-Several Audio In- outputs, Paddle input, Keyer outputs| several     | 5       | 
+Several Audio In- outputs, Paddle input, Keyer outputs| several     | 5       | TRS Stereo jack, like PJ325 5 pin jack
  | | |
-Led 5 mm                                    | LED1,LED2,LED3, LED4  | 4       | 
+Led 5 mm                                    | LED1,LED2,LED3, LED4  | 4       | Green Led's....or any color you want
  | | |
-Transistor 2N3904                           | Q2,Q5,Q7              | 3       | 
+Transistor 2N3904                           | Q2,Q5,Q7              | 3       | NPN general purpose transistor
  | | |
-Mosfet 2N7000                               | Q1,Q3,Q4,Q6, Q8       | 5       | 
+Mosfet 2N7000                               | Q1,Q3,Q4,Q6, Q8       | 5       | MOSFET N-CHANNEL 60V 0.2A
  | | |
-Mega 2560 Pro Mini (Embed)                  | U2                    | 1       | 
+Mega 2560 Pro Mini (Embed)                  | U2                    | 1       | Robotdyn Mega2560 Pro Mini (Embed) Order with Male pins included !
  | | |
-20x4 LCD Backlit Display                    | U1                    | 1       | 
+20x4 LCD Backlit Display                    | U1                    | 1       | Arduino type 2004 LCD display
 or                                          |                       |         | 
-16x4 LCD Backlit Display                    | U1                    | 1       | 
+16x4 LCD Backlit Display                    | U1                    | 1       | Arduino type 1604 LCD display
 or                                          |                       |         | 
-16x2 LCD Backlit Display                    | U1                    | 1       | 
+16x2 LCD Backlit Display                    | U1                    | 1       | Arduino type 1602 LCD display
  | | |
-On/Off Switch                               | S1                    | 1       | 
+On/Off Switch                               | S1                    | 1       | Any SPST Switch
  | | |
  
