@@ -1,17 +1,10 @@
 #### BOM  Keyer project PI4DEC
 
- Bill of materials
+#### Bill of materials
 
-
-
-
-
-[![](../images/pcb-thumbnail.jpeg)](images/pcb_layout.jpg) |  [![](../images/SchematicTN.jpg)](images/Schematic.pdf) | [![](../images/SchematicTN.jpg)](images/Schematic.pdf)
+**Part name and Value** | **Sch. Ref.** | **Quantity**
 -------------- | ----------- | -------
-The K5BCQ PCB: |  Schematic: | ---  
-**Part name and Value** | **Sch. Ref.** | **Quantity**  
-                    | -          |  
-PC Board            | -          | 1 
+PC Board            |           | 1 
                     | -          | 
 Resistor 10 Ohm     | R34,      | 1 
 Resistor 100 Ohm    | R14, R23, R36| 3 
@@ -46,16 +39,17 @@ Jumper Pin 2 | several | 6
 Push button | SW2…SW8 | 7 
 Loudspeaker 8 Ohm | SP1 | 1 
 Keypad 3x4 or 4x4 | U3 | 1 
-Power entry | J6 | 1
-Several Audio In- outputs, Paddle input, Keyer outputs | several | 5
-Led 5 mm | LED1,LED2,LED3, LED4 | 4
-Transistor 2N3904 | Q2,Q5,Q7 | 3
-Mosfet 2N7000 | Q1,Q3,Q4,Q6, Q8 | 5
-Mega 2560 Pro Mini (Embed) | U2 | 1
-20x4 LCD Backlit Display | U1 | 1
-or | |
-16x4 LCD Backlit Display | U1 | 1
-or | |
-16x2 LCD Backlit Display | U1 | 1
+Power entry | J6 | 1 
+Several Audio In- outputs, Paddle input, Keyer outputs | several | 5 
+Led 5 mm | LED1,LED2,LED3, LED4 | 4 
+Transistor 2N3904 | Q2,Q5,Q7 | 3 
+Mosfet 2N7000 | Q1,Q3,Q4,Q6, Q8 | 5 
+Mega 2560 Pro Mini (Embed) | U2 | 1 
+20x4 LCD Backlit Display | U1 | 1 
+or | | 
+16x4 LCD Backlit Display | U1 | 1 
+or | | 
+16x2 LCD Backlit Display | U1 | 1 
    | | 
-On/Off Switch | S1 | 1
+On/Off Switch | S1 | 1 
+
