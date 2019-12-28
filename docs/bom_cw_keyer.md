@@ -16,7 +16,7 @@ Resistor 4K7 Ohm        | R24,R25               | 2
 Resistor 10K Ohm        | R9,R16 R17, R21,R22   | 5 
 Resistor 150K Ohm       | R35                   | 1 
 Resistor 100K Ohm       | R37                   | 1 
-                        |                       | 
+                       |                       | 
 Trimmer potentiometer 500 Ohm | R10             | 1 
 Trimmer potentiometer 20K Ohm | R8,R11, R29     | 3 
                         |                       | 
