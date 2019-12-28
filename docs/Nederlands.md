@@ -12,7 +12,7 @@ De gebruikte PCB:                                       | Het schema:
 
 #### Documentatie:
 [Nederlandstalige documentatie van de hand van Cor Struyk - PA0GTB](PA0GTB_documentatie.md)
-###### *n.b. via DEC of PA0GTB zijn nog enige printen beschikbaar*
+###### *n.b. via PI4DEC of PA0GTB zijn nog enige printen beschikbaar*
 
 [Onderdelenlijst](bom_cw_keyer.md)
 
