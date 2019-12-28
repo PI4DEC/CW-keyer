@@ -16,7 +16,7 @@ De gebruikte PCB:                                       | Het schema:
 
 [Onderdelenlijst](bom_cw_keyer.md)
 
-Deze documentatie is ook te downloaden in .docx formaat
+###### Deze documentatie is ook te downloaden in .docx formaat
 
 [2019_Arduino_voor_radioamateurs_deel_10.docx](2019_Arduino_voor_radioamateurs_deel_10.docx)
 
