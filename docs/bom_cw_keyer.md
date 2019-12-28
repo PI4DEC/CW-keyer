@@ -1,8 +1,16 @@
 #### BOM  Keyer project PI4DEC
 
-##### Bill of materials
+ Bill of materials
 
-*Part name and Value* | *Sch. Ref.* | *Quantity* 
+
+
+
+
+[![](../images/pcb-thumbnail.jpeg)](images/pcb_layout.jpg) |  [![](../images/SchematicTN.jpg)](images/Schematic.pdf) | [![](../images/SchematicTN.jpg)](images/Schematic.pdf)
+------------------------------------------------------- | ---------------------------------------------------- | -------
+The K5BCQ PCB:                                       | Schematic: |
+**Part name and Value** | **Sch. Ref.** | **Quantity** 
+
 ------------------- | --------- | ------------------------- 
                     |           |  
 
