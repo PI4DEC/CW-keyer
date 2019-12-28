@@ -10,8 +10,6 @@
 -------------- | ----------- | -------
 The K5BCQ PCB: |  Schematic: | ---  
 **Part name and Value** | **Sch. Ref.** | **Quantity**  
-
-
                     | -          |  
 PC Board            | -          | 1 
                     | -          | 
