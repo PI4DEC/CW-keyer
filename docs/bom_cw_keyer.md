@@ -7,7 +7,7 @@
 PC Board                                               |                       | 1 
                                                        |                       | 
 Resistor 10 Ohm                                        | R34,                  | 1 
-Resistor 100 Ohm                                       | R14, R23, R36         | 3 
+Resistor 100 Ohm                                       | R14, R36 (R23 vervalt)| 2 
 Resistor 220 Ohm                                       | R13, R15, R19, R20, R26 | 5 
 Resistor 560 Ohm                                       | R32                   | 1 
 Resistor 1K Ohm                                        | R1,R2,R3,R4,R5,R6,R7,R12,R18,R27,R28 | 11 
