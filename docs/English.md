@@ -28,6 +28,8 @@ The files for the enclosure can be found on Tinkercad.com
 
 Box     : https://www.tinkercad.com/things/8LZc6XmkHG3
 
+Stand : https://www.tinkercad.com/things/85wWPwAi7wy
+
 Front-1: https://www.tinkercad.com/things/4jNfGvMzsKl
 
 Front-2: https://www.tinkercad.com/things/jEVnRsXiihz
