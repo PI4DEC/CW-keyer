@@ -1,4 +1,4 @@
-Deze 'fork' van de K3NG Keyer is gemaakt door PI4DEC leden die dit project gemaakt hebben met de K5BCQ pcb.
+Deze 'fork' van de K3NG Keyer is voor PI4DEC, waar dit project gemaakt is met de K5BCQ PCB. 
 
 [Software documentatie staat op K3NG github pagina](https://github.com/k3ng/k3ng_cw_keyer/wiki)
 
