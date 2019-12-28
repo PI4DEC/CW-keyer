@@ -2,7 +2,7 @@
 
 #### Bill of materials
 
-**Part name and Value**                                | **Schema Referentie** | **Aantal**
+**Part name and Value**                                | **Schema Referenc**   | **Quantity**
 ------------------------------------------------------ | --------------------- | ----------
 PC Board                                               |                       | 1 
                                                        |                       | 
